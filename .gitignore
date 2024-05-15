@@ -162,4 +162,5 @@ cython_debug/
 # stuff to ignore
 old/*
 data/*
+utilities/netTransfer_20cat.mat
 *.DS_Store
