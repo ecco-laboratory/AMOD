@@ -11,18 +11,20 @@ The second part of this project involves using the encoding models as targets fo
 This repository contains scripts for the analyses performed in the paper entitled "Understanding human amygdala function with artificial neural networks."
 
 ## Tools
-Code for the EmoNet model used in encoding model development can be found [here](https://github.com/ecco-laboratory/EmoNet "Here title").
+Code for the EmoNet model used in encoding model development can be found in [this repository](https://github.com/ecco-laboratory/EmoNet "this repository title").
 
 Code for CANlab Core Tools which provided many of the functions used in the analyses and the Neuroimaging Pattern Masks can be found [here](https://canlab.github.io/_pages/canlab_help_1_installing_tools/canlab_help_1_installing_tools.html "Here title").
 
 Code for SPM12 can be found [here](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/ "Here title").
 
-Code for the EmoNet model in Python used for artificial stimuli generation can be found [here](https://github.com/ecco-laboratory/emonet-pytorch "Here title").
+Code for the EmoNet model in Python used for artificial stimuli generation can be found in [this repository](https://github.com/ecco-laboratory/emonet-pytorch "this repository title").
 
-Code for the Activation Maximization Optimizer (Wang and Ponce, 2022) used in artificial stimuli generation can be found [here](https://github.com/Animadversio/ActMax-Optimizer-Dev "Here title").
+Code for the Activation Maximization Optimizer (Wang and Ponce, 2022) used in artificial stimuli generation can be found in [this repository](https://github.com/Animadversio/ActMax-Optimizer-Dev "this repository title").
+
+Instructions for installing MATLAB can be found [here](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html "Here title").
 
 ## Data
-Data relevant to this project can be found [here](https://osf.io/r48gc/ "Here title").
+Data relevant to this project can be found in the [OSF repository](https://osf.io/r48gc/ "OSF repository title").
 
 Data from the Naturalistic Neuroimaging Database (Aliko et al., 2020) can be found [here](https://openneuro.org/datasets/ds002837/versions/2.0.0 "Here title").
 
