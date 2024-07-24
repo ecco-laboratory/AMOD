@@ -1,6 +1,6 @@
 # Amygdala Modeling (AMOD)
  
-The purpose of this project is to understand and modeling amygdala activity through visual input.
+The purpose of this project is to model amygdala activity in response to visual input to better understand amygdala function.
 
 The first part of this project involves building encoding models from existing fMRI data using the ANN EmoNet as a feature extractor. These encoding models will predict how the amygdala activates or response to input visual stimuli.
 Validation of these encoding models' performances will be done by comparing predicted activity in encoding models vs observed activity in BOLD data. Validation will also be done using naturalistic stimuli from the IAPS and OASIS datasets to see if the encoding model's predictions align with human brain data.
