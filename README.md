@@ -11,7 +11,7 @@ The second part of this project involves using the encoding models as targets fo
 This repository contains scripts for the analyses performed in the paper entitled "Understanding human amygdala function with artificial neural networks."
 
 ## Tools
-Code for the EmoNet model which was used in encoding model development can be found in [this repository](https://github.com/ecco-laboratory/EmoNet "this repository title").
+Code for the EmoNet model (Kragel et al., 2019) which was used in encoding model development can be found in [this repository](https://github.com/ecco-laboratory/EmoNet "this repository title").
 
 Instructions for installing CANlab Core Tools which provided many of the functions and Neuroimaging Pattern Masks used in the analyses can be found [here](https://canlab.github.io/_pages/canlab_help_1_installing_tools/canlab_help_1_installing_tools.html "here title").
 
