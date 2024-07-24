@@ -1,4 +1,4 @@
-# Amygdala Modulation (AMOD)
+# Amygdala Modeling (AMOD)
  
 The purpose of this project is to understand and modulate amygdala activity through noninvasive visual input.
 
