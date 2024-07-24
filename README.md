@@ -1,4 +1,4 @@
-# AMOD
+# Amygdala Modulation (AMOD)
  
 The purpose of this project is to understand and modulate amygdala activity through noninvasive visual input.
 
@@ -19,7 +19,7 @@ Instructions for installing SPM12 can be found [here](https://www.fil.ion.ucl.ac
 
 Code for the EmoNet model in PyTorch which was used for artificial stimuli generation can be found in [this repository](https://github.com/ecco-laboratory/emonet-pytorch "this repository title").
 
-Code for the Activation Maximization Optimizer (Wang and Ponce, 2022) which was used for artificial stimuli generation can be found in [this repository](https://github.com/Animadversio/ActMax-Optimizer-Dev "this repository title").
+Code for the Activation Maximization Optimizer (Wang and Ponce, 2022) used in artificial stimuli generation can be found in [this repository](https://github.com/Animadversio/ActMax-Optimizer-Dev "this repository title").
 
 Instructions for installing MATLAB can be found [here](https://www.mathworks.com/help/install/ug/install-products-with-internet-connection.html "here title").
 
