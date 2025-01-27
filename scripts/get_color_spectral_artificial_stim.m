@@ -9,8 +9,8 @@ c = 0;
 f = sqrt((x-227/2).^2+(y-227/2).^2);
 
 % define frequencies
-low_freq = f < 30;
-high_freq = f > 50;
+low_freq = f < 6;
+high_freq = f > 24;
 
 % make empty arrays to contain target subject and target roi columns
 target_subject_full = cell(length(imgs),1);

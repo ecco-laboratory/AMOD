@@ -10,8 +10,8 @@ c = 0;
 f = sqrt((x-227/2).^2+(y-227/2).^2);
 
 % define frequencies
-low_freq = f < 30;
-high_freq = f > 50;
+low_freq = f < 6;
+high_freq = f > 24;
 
 for i = 1:length(imgs)
     
